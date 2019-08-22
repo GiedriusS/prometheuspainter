@@ -1,0 +1,9 @@
+[package]
+name = "prometheuspainter"
+version = "0.1.0"
+authors = ["Giedrius Statkevičius <giedriuswork@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
+rouille = "3.0.0"
